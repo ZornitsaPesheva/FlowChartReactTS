@@ -52,11 +52,6 @@ serve -s build
 ## Install Flow Chart JS:
 
 Copy the extracted files to the /src folder\
-find and delete this part form flowchart.js:\
-"undefined"!=typeof module&&(module.exports=FlowChart),\
-and add this at the end of both files:\
-export default FlowChart
-
 
 
 ## Learn More
