@@ -51,7 +51,7 @@ serve -s build
 
 ## Install Flow Chart JS:
 
-Copy the extracted files to the /src folder\
+Copy the extracted files to the /src folder
 
 
 ## Learn More
