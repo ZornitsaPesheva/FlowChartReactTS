@@ -51,7 +51,8 @@ serve -s build
 
 ## Install Flow Chart JS:
 
-Copy the extracted files to the /src folder
+Copy the extracted files to the /src folder and add this at the end of the .d.ts file:\
+export defaul FlowChart
 
 
 ## Learn More
